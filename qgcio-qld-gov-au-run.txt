@@ -1,0 +1,1897 @@
+/mnt/d/web-scrape$ wget --mirror --convert-links --adjust-extension --page-requisites --no-parent https://www.qgcio.qld.gov.au/services/it-graduate-program
+Will not apply HSTS. The HSTS database must be a regular and non-world-writable file.
+ERROR: could not open HSTS store at '/home/mangoadmin/.wget-hsts'. HSTS will be disabled.
+--2020-02-12 09:16:31--  https://www.qgcio.qld.gov.au/services/it-graduate-program
+Resolving www.qgcio.qld.gov.au (www.qgcio.qld.gov.au)... 202.9.94.188
+Connecting to www.qgcio.qld.gov.au (www.qgcio.qld.gov.au)|202.9.94.188|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.78K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:32 (3.21 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program.html’ saved [70432]
+
+Loading robots.txt; please ignore errors.
+--2020-02-12 09:16:32--  https://www.qgcio.qld.gov.au/robots.txt
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/plain]
+Saving to: ‘www.qgcio.qld.gov.au/robots.txt’
+
+www.qgcio.qld.gov.au/robots.t     [ <=>                                              ]     185  --.-KB/s    in 0s
+
+2020-02-12 09:16:32 (53.5 MB/s) - ‘www.qgcio.qld.gov.au/robots.txt’ saved [185]
+
+--2020-02-12 09:16:32--  https://www.qgcio.qld.gov.au/__data/assets/css_file_folder/0007/160/lib.css?v=0.1.2
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/css_file_folder/0007/160/lib.css?v=0.1.2.css’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]       0  --.-KB/s    in 0s
+
+2020-02-12 09:16:32 (0.00 B/s) - ‘www.qgcio.qld.gov.au/__data/assets/css_file_folder/0007/160/lib.css?v=0.1.2.css’ saved [0]
+
+--2020-02-12 09:16:32--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/main.css
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/main.css’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 308.46K  --.-KB/s    in 0.05s
+
+2020-02-12 09:16:32 (6.27 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/main.css’ saved [315858]
+
+--2020-02-12 09:16:32--  https://www.qgcio.qld.gov.au/__data/assets/css_file_folder/0008/161/custom.css?v=0.3.124
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/css_file_folder/0008/161/custom.css?v=0.3.124.css’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  19.73K  --.-KB/s    in 0s
+
+2020-02-12 09:16:32 (60.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/css_file_folder/0008/161/custom.css?v=0.3.124.css’ saved [20200]
+
+--2020-02-12 09:16:32--  https://www.qgcio.qld.gov.au/__data/assets/css_file/0017/28205/fullcalendar.min.css
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/css_file/0017/28205/fullcalendar.min.css’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  15.76K  --.-KB/s    in 0s
+
+2020-02-12 09:16:32 (49.2 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/css_file/0017/28205/fullcalendar.min.css’ saved [16140]
+
+--2020-02-12 09:16:32--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/vendor/modernizr.min.js
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/vendor/modernizr.min.js’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  50.19K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:32 (79.9 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/vendor/modernizr.min.js’ saved [51394]
+
+--2020-02-12 09:16:32--  https://www.qgcio.qld.gov.au/__data/assets/image/0016/169/qg-favicon.png
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0016/169/qg-favicon.png’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   8.19K  --.-KB/s    in 0s
+
+2020-02-12 09:16:32 (40.3 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0016/169/qg-favicon.png’ saved [8390]
+
+--2020-02-12 09:16:32--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/qg-coa.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/qg-coa.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  33.70K  --.-KB/s    in 0s
+
+2020-02-12 09:16:32 (67.7 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/qg-coa.svg’ saved [34511]
+
+--2020-02-12 09:16:32--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/qg-coa-stacked.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/qg-coa-stacked.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  34.25K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:33 (59.4 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/qg-coa-stacked.svg’ saved [35069]
+
+--2020-02-12 09:16:33--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/qg-black-logo.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/qg-black-logo.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  32.45K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:33 (59.7 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/qg-black-logo.svg’ saved [33226]
+
+--2020-02-12 09:16:33--  https://www.qgcio.qld.gov.au/services/it-graduate-program/expand-your-team-with-an-it-graduate
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/expand-your-team-with-an-it-graduate.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  86.03K  --.-KB/s    in 0.05s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:34 (1.61 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/expand-your-team-with-an-it-graduate.html’ saved [88091]
+
+--2020-02-12 09:16:34--  https://www.qgcio.qld.gov.au/services/it-graduate-program/whats-in-it-for-graduates
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/whats-in-it-for-graduates.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  73.82K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:35 (2.54 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/whats-in-it-for-graduates.html’ saved [75589]
+
+--2020-02-12 09:16:35--  https://www.qgcio.qld.gov.au/services/it-graduate-program/how-to-apply
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/how-to-apply.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  99.30K  --.-KB/s    in 0.04s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:36 (2.31 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/how-to-apply.html’ saved [101687]
+
+--2020-02-12 09:16:36--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  74.32K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:38 (2.89 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles.html’ saved [76099]
+
+--2020-02-12 09:16:38--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  70.90K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:39 (3.05 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates.html’ saved [72598]
+
+--2020-02-12 09:16:39--  https://www.qgcio.qld.gov.au/services/it-graduate-program/awards
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/awards.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  71.53K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:40 (2.88 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/awards.html’ saved [73242]
+
+--2020-02-12 09:16:40--  https://www.qgcio.qld.gov.au/services/it-graduate-program/helpful-links
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/helpful-links.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  77.92K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:41 (3.13 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/helpful-links.html’ saved [79794]
+
+--2020-02-12 09:16:41--  https://www.qgcio.qld.gov.au/services/investment-review
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/investment-review.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.06K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:42 (2.72 MB/s) - ‘www.qgcio.qld.gov.au/services/investment-review.html’ saved [67648]
+
+--2020-02-12 09:16:42--  https://www.qgcio.qld.gov.au/services/analytics-and-research
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/analytics-and-research.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  74.79K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:43 (3.46 MB/s) - ‘www.qgcio.qld.gov.au/services/analytics-and-research.html’ saved [76580]
+
+--2020-02-12 09:16:43--  https://www.qgcio.qld.gov.au/services/gated-assurance
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/gated-assurance.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  81.40K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:44 (3.62 MB/s) - ‘www.qgcio.qld.gov.au/services/gated-assurance.html’ saved [83350]
+
+--2020-02-12 09:16:44--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/account-icon-mob.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/account-icon-mob.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     454  --.-KB/s    in 0s
+
+2020-02-12 09:16:44 (4.75 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/account-icon-mob.svg’ saved [454]
+
+--2020-02-12 09:16:44--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/close-account-menu-mob.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/close-account-menu-mob.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     413  --.-KB/s    in 0s
+
+2020-02-12 09:16:44 (3.87 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/mysource_files/close-account-menu-mob.svg’ saved [413]
+
+--2020-02-12 09:16:44--  https://www.qgcio.qld.gov.au/__data/assets/image/0020/30278/varieties/600w.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0020/30278/varieties/600w.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  34.51K  --.-KB/s    in 0s
+
+2020-02-12 09:16:44 (86.0 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0020/30278/varieties/600w.jpg’ saved [35335]
+
+--2020-02-12 09:16:44--  https://www.qgcio.qld.gov.au/__data/assets/image/0018/3645/varieties/600w.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0018/3645/varieties/600w.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  31.32K  --.-KB/s    in 0s
+
+2020-02-12 09:16:44 (88.3 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0018/3645/varieties/600w.jpg’ saved [32073]
+
+--2020-02-12 09:16:44--  https://www.qgcio.qld.gov.au/__data/assets/image/0022/3649/BeHere4Qld_Grad-connect_assets-03.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0022/3649/BeHere4Qld_Grad-connect_assets-03.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  89.06K  --.-KB/s    in 0.01s
+
+2020-02-12 09:16:44 (5.83 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0022/3649/BeHere4Qld_Grad-connect_assets-03.jpg’ saved [91197]
+
+--2020-02-12 09:16:44--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/where-are-they-now
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/where-are-they-now.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  74.29K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:46 (3.08 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/where-are-they-now.html’ saved [76070]
+
+--2020-02-12 09:16:46--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  81.23K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:47 (4.28 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials.html’ saved [83177]
+
+--2020-02-12 09:16:47--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/vendor/jquery.min.js
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/vendor/jquery.min.js’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 273.83K  --.-KB/s    in 0.05s
+
+2020-02-12 09:16:47 (5.37 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/vendor/jquery.min.js’ saved [280404]
+
+--2020-02-12 09:16:47--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/plugins.min.js
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/plugins.min.js’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 689.73K  4.15MB/s    in 0.2s
+
+2020-02-12 09:16:47 (4.15 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/plugins.min.js’ saved [706283]
+
+--2020-02-12 09:16:47--  https://www.qgcio.qld.gov.au/__data/assets/js_file_folder/0012/165/lib.js?v=0.1.9
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/js_file_folder/0012/165/lib.js?v=0.1.9’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  81.20K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:48 (83.3 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/js_file_folder/0012/165/lib.js?v=0.1.9’ saved [83150]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/js_file/0011/632/handlebars.min.js?v=0.1.1
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/js_file/0011/632/handlebars.min.js?v=0.1.1’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  73.55K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:48 (89.6 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/js_file/0011/632/handlebars.min.js?v=0.1.1’ saved [75312]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/js_file/0012/633/typeahead.js?v=0.2.1
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/js_file/0012/633/typeahead.js?v=0.2.1’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  94.28K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:48 (146 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/js_file/0012/633/typeahead.js?v=0.2.1’ saved [96547]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/js_file/0015/1077/fb-auto-completion.js?v=0.1.3
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/js_file/0015/1077/fb-auto-completion.js?v=0.1.3’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  26.17K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:48 (39.3 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/js_file/0015/1077/fb-auto-completion.js?v=0.1.3’ saved [26802]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/fullcalendar-rrule.js
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/fullcalendar-rrule.js’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 125.40K  --.-KB/s    in 0.02s
+
+2020-02-12 09:16:48 (6.94 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/fullcalendar-rrule.js’ saved [128411]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/fullcalendar.js
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/fullcalendar.js’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 455.87K  --.-KB/s    in 0.08s
+
+2020-02-12 09:16:48 (5.63 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/fullcalendar.js’ saved [466810]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/global.js
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/global.js’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 159.68K  --.-KB/s    in 0.02s
+
+2020-02-12 09:16:48 (7.33 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/js/global.js’ saved [163513]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/js_file_folder/0013/166/custom.js?v=0.4.13
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/js_file_folder/0013/166/custom.js?v=0.4.13’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   9.69K  --.-KB/s    in 0s
+
+2020-02-12 09:16:48 (40.8 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/js_file_folder/0013/166/custom.js?v=0.4.13’ saved [9922]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/js_file/0021/35049/qgcio-kg.js
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-javascript]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/js_file/0021/35049/qgcio-kg.js’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  78.90K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:48 (132 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/js_file/0021/35049/qgcio-kg.js’ saved [80797]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.eot
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.eot’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  19.66K  --.-KB/s    in 0s
+
+2020-02-12 09:16:48 (41.3 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.eot’ saved [20127]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.eot?
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.eot?’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  19.66K  --.-KB/s    in 0s
+
+2020-02-12 09:16:48 (47.9 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.eot?’ saved [20127]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.woff2
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/font-woff2]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.woff2’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  17.61K  --.-KB/s    in 0s
+
+2020-02-12 09:16:48 (47.7 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.woff2’ saved [18028]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.woff
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/font-woff]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.woff’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  22.88K  --.-KB/s    in 0s
+
+2020-02-12 09:16:48 (73.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.woff’ saved [23424]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.ttf
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-font-ttf]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.ttf’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  44.34K  --.-KB/s    in 0s
+
+2020-02-12 09:16:48 (87.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.ttf’ saved [45404]
+
+--2020-02-12 09:16:48--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 106.19K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:49 (90.2 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/glyphicons-halflings-regular.svg’ saved [108738]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.eot?v=4.7.0
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.eot?v=4.7.0’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 161.86K  --.-KB/s    in 0.02s
+
+2020-02-12 09:16:49 (8.47 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.eot?v=4.7.0’ saved [165742]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.eot?
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/octet-stream]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.eot?’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 161.86K  --.-KB/s    in 0.02s
+
+2020-02-12 09:16:49 (8.84 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.eot?’ saved [165742]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.woff2?v=4.7.0
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/font-woff2]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.woff2?v=4.7.0’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  75.35K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:49 (127 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.woff2?v=4.7.0’ saved [77160]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.woff?v=4.7.0
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/font-woff]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.woff?v=4.7.0’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  95.73K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:49 (87.4 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.woff?v=4.7.0’ saved [98024]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.ttf?v=4.7.0
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [application/x-font-ttf]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.ttf?v=4.7.0’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 161.67K  --.-KB/s    in 0.03s
+
+2020-02-12 09:16:49 (6.07 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.ttf?v=4.7.0’ saved [165548]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.svg?v=4.7.0
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.svg?v=4.7.0’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 433.96K  --.-KB/s    in 0.07s
+
+2020-02-12 09:16:49 (6.05 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/fontawesome-webfont.svg?v=4.7.0’ saved [444379]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/tick.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/tick.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     274  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (65.3 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/tick.svg’ saved [274]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/discussion-blue.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/discussion-blue.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     347  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (59.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/discussion-blue.svg’ saved [347]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/notification.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/notification.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     690  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (5.90 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/notification.svg’ saved [690]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/subscribe.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/subscribe.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     231  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (62.9 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/subscribe.svg’ saved [231]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/chevron-next-month.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/chevron-next-month.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     192  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (45.8 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/chevron-next-month.svg’ saved [192]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/chevron-prev-month.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/chevron-prev-month.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     193  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (39.2 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/chevron-prev-month.svg’ saved [193]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/cal-in-list-green.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/cal-in-list-green.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     315  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (75.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/cal-in-list-green.svg’ saved [315]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/cal-in-list.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/cal-in-list.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     315  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (88.4 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/cal-in-list.svg’ saved [315]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/clock-icon.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/clock-icon.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     723  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (7.96 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/clock-icon.svg’ saved [723]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/location.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/location.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     383  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (93.7 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/location.svg’ saved [383]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/expand-menu.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/expand-menu.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     391  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (3.55 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/expand-menu.svg’ saved [391]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/0-stars.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/0-stars.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     300  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (73.4 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/0-stars.svg’ saved [300]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/1-star.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/1-star.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     321  --.-KB/s    in 0s
+
+2020-02-12 09:16:49 (78.5 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/1-star.svg’ saved [321]
+
+--2020-02-12 09:16:49--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/2-star.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/2-star.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     363  --.-KB/s    in 0s
+
+2020-02-12 09:16:50 (88.8 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/2-star.svg’ saved [363]
+
+--2020-02-12 09:16:50--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/3-star.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/3-star.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     405  --.-KB/s    in 0s
+
+2020-02-12 09:16:50 (5.02 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/3-star.svg’ saved [405]
+
+--2020-02-12 09:16:50--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/4-star.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/4-star.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     447  --.-KB/s    in 0s
+
+2020-02-12 09:16:50 (5.00 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/4-star.svg’ saved [447]
+
+--2020-02-12 09:16:50--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/5-star.svg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/5-star.svg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     489  --.-KB/s    in 0s
+
+2020-02-12 09:16:50 (4.64 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/5-star.svg’ saved [489]
+
+--2020-02-12 09:16:50--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/yammer_icon.png
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/yammer_icon.png’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  18.65K  --.-KB/s    in 0s
+
+2020-02-12 09:16:50 (47.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/yammer_icon.png’ saved [19093]
+
+--2020-02-12 09:16:50--  https://www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/yammer_icon_hover.png
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/yammer_icon_hover.png’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  18.64K  --.-KB/s    in 0s
+
+2020-02-12 09:16:50 (40.8 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/mysource_files/yammer_icon_hover.png’ saved [19089]
+
+--2020-02-12 09:16:50--  https://www.qgcio.qld.gov.au/__data/assets/file/0021/29064/subscribe.svg?v=0.0.1
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/svg+xml]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/file/0021/29064/subscribe.svg?v=0.0.1’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]     231  --.-KB/s    in 0s
+
+2020-02-12 09:16:50 (62.9 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/file/0021/29064/subscribe.svg?v=0.0.1’ saved [231]
+
+--2020-02-12 09:16:50--  https://www.qgcio.qld.gov.au/__data/assets/image/0013/30253/varieties/600w.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0013/30253/varieties/600w.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  31.06K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:50 (53.6 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0013/30253/varieties/600w.jpg’ saved [31809]
+
+--2020-02-12 09:16:50--  https://www.qgcio.qld.gov.au/__data/assets/image/0018/3654/MAN8107.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0018/3654/MAN8107.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [    <=>                                           ]   5.19M  7.38MB/s    in 0.7s
+
+2020-02-12 09:16:51 (7.38 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0018/3654/MAN8107.jpg’ saved [5443575]
+
+--2020-02-12 09:16:51--  https://www.qgcio.qld.gov.au/__data/assets/image/0013/20191/varieties/600w.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0013/20191/varieties/600w.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  42.55K  --.-KB/s    in 0s
+
+2020-02-12 09:16:51 (109 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0013/20191/varieties/600w.jpg’ saved [43569]
+
+--2020-02-12 09:16:51--  https://www.qgcio.qld.gov.au/__data/assets/image/0019/29305/DSCN4907.JPG
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0019/29305/DSCN4907.JPG’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   1.86M  9.77MB/s    in 0.2s
+
+2020-02-12 09:16:51 (9.77 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0019/29305/DSCN4907.JPG’ saved [1947417]
+
+--2020-02-12 09:16:51--  https://www.qgcio.qld.gov.au/__data/assets/image/0027/27927/varieties/600w.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0027/27927/varieties/600w.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  57.14K  --.-KB/s    in 0.001s
+
+2020-02-12 09:16:51 (106 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0027/27927/varieties/600w.jpg’ saved [58508]
+
+--2020-02-12 09:16:51--  https://www.qgcio.qld.gov.au/__data/assets/image/0017/21806/2018-group.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0017/21806/2018-group.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 186.38K  --.-KB/s    in 0.005s
+
+2020-02-12 09:16:51 (39.5 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0017/21806/2018-group.jpg’ saved [190856]
+
+--2020-02-12 09:16:51--  https://www.qgcio.qld.gov.au/__data/assets/image/0023/29516/05_IT-graduate-roles-v5.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0023/29516/05_IT-graduate-roles-v5.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [    <=>                                           ]   7.47M  11.3MB/s    in 0.7s
+
+2020-02-12 09:16:52 (11.3 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0023/29516/05_IT-graduate-roles-v5.jpg’ saved [7837112]
+
+--2020-02-12 09:16:52--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/business-analyst
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/business-analyst.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.24K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:52 (2.95 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/business-analyst.html’ saved [69880]
+
+--2020-02-12 09:16:52--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/cloud-integration-architect
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/cloud-integration-architect.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.35K  --.-KB/s    in 0.05s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:53 (1.48 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/cloud-integration-architect.html’ saved [69987]
+
+--2020-02-12 09:16:53--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/cyber-security
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/cyber-security.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.47K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:54 (2.75 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/cyber-security.html’ saved [70112]
+
+--2020-02-12 09:16:54--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/data-analysis-and-database-management
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/data-analysis-and-database-management.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.38K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:55 (2.38 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/data-analysis-and-database-management.html’ saved [70021]
+
+--2020-02-12 09:16:55--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/digital-integrator
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/digital-integrator.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.65K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:56 (2.46 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/digital-integrator.html’ saved [70296]
+
+--2020-02-12 09:16:56--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/enterprise-architecture
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/enterprise-architecture.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.29K  --.-KB/s    in 0.04s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:56 (1.60 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/enterprise-architecture.html’ saved [69930]
+
+--2020-02-12 09:16:56--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/finance
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/finance.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  67.91K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:57 (3.09 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/finance.html’ saved [69543]
+
+--2020-02-12 09:16:57--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/human-resources
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/human-resources.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.01K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:58 (2.39 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/human-resources.html’ saved [69639]
+
+--2020-02-12 09:16:58--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/information-management
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/information-management.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.69K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:16:59 (2.67 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/information-management.html’ saved [70337]
+
+--2020-02-12 09:16:59--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/information-technology-it-generalist
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/information-technology-it-generalist.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.65K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:00 (2.78 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/information-technology-it-generalist.html’ saved [70297]
+
+--2020-02-12 09:17:00--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/marketing-and-communications
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/marketing-and-communications.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.23K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:01 (3.31 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/marketing-and-communications.html’ saved [69872]
+
+--2020-02-12 09:17:01--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/mobile-platform-application-developer
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/mobile-platform-application-developer.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.45K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:01 (2.98 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/mobile-platform-application-developer.html’ saved [70095]
+
+--2020-02-12 09:17:01--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/network-support
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/network-support.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.25K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:02 (3.30 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/network-support.html’ saved [69892]
+
+--2020-02-12 09:17:02--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/procurement-and-contract-management
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/procurement-and-contract-management.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.21K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:03 (2.82 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/procurement-and-contract-management.html’ saved [69844]
+
+--2020-02-12 09:17:03--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/project-support
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/project-support.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.32K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:04 (2.41 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/project-support.html’ saved [69960]
+
+--2020-02-12 09:17:04--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/remote-sensing-science
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/remote-sensing-science.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  69.00K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:05 (2.69 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/remote-sensing-science.html’ saved [70657]
+
+--2020-02-12 09:17:05--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/research
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/research.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.25K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:05 (2.66 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/research.html’ saved [69889]
+
+--2020-02-12 09:17:05--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/server-support
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/server-support.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.29K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:06 (3.56 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/server-support.html’ saved [69934]
+
+--2020-02-12 09:17:06--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/software-development
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/software-development.html’
+
+www.qgcio.qld.gov.au/services     [  <=>                                             ]  68.40K   192KB/s    in 0.4s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:08 (192 KB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/software-development.html’ saved [70037]
+
+--2020-02-12 09:17:08--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/spatial-information
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/spatial-information.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.38K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:08 (2.54 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/spatial-information.html’ saved [70016]
+
+--2020-02-12 09:17:08--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/systems-analyst
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/systems-analyst.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.26K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:09 (3.44 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/systems-analyst.html’ saved [69901]
+
+--2020-02-12 09:17:09--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/systems-testing
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/systems-testing.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.35K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:10 (2.55 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/systems-testing.html’ saved [69991]
+
+--2020-02-12 09:17:10--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/user-experience-ux
+Connecting to www.qgcio.qld.gov.au (www.qgcio.qld.gov.au)|202.9.94.188|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/user-experience-ux.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.44K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:11 (2.79 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/user-experience-ux.html’ saved [70085]
+
+--2020-02-12 09:17:11--  https://www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/web-support
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/web-support.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  68.01K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:12 (3.65 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/web-support.html’ saved [69644]
+
+--2020-02-12 09:17:12--  https://www.qgcio.qld.gov.au/__data/assets/image/0012/30621/James-Watson-cropped.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0012/30621/James-Watson-cropped.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [     <=>                                          ]   3.20M  3.41MB/s    in 0.9s
+
+2020-02-12 09:17:13 (3.41 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0012/30621/James-Watson-cropped.jpg’ saved [3358596]
+
+--2020-02-12 09:17:13--  https://www.qgcio.qld.gov.au/__data/assets/image/0019/30619/Joanna-cropped.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0019/30619/Joanna-cropped.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [   <=>                                            ]   3.18M  5.78MB/s    in 0.5s
+
+2020-02-12 09:17:13 (5.78 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0019/30619/Joanna-cropped.jpg’ saved [3330633]
+
+--2020-02-12 09:17:13--  https://www.qgcio.qld.gov.au/__data/assets/image/0011/30620/Samuel-Lim-cropped.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0011/30620/Samuel-Lim-cropped.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [   <=>                                            ]   4.09M  8.77MB/s    in 0.5s
+
+2020-02-12 09:17:14 (8.77 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0011/30620/Samuel-Lim-cropped.jpg’ saved [4291617]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/__data/assets/image/0024/29418/Gradtop2019.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0024/29418/Gradtop2019.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  12.51K  --.-KB/s    in 0s
+
+2020-02-12 09:17:14 (52.6 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0024/29418/Gradtop2019.jpg’ saved [12811]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/__data/assets/image/0028/24967/2018-AGRIAs-Finalist-Logo.png
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0028/24967/2018-AGRIAs-Finalist-Logo.png’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  24.06K  --.-KB/s    in 0s
+
+2020-02-12 09:17:14 (64.9 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0028/24967/2018-AGRIAs-Finalist-Logo.png’ saved [24637]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/__data/assets/image/0017/21860/download-1.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0017/21860/download-1.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   8.66K  --.-KB/s    in 0s
+
+2020-02-12 09:17:14 (35.4 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0017/21860/download-1.jpg’ saved [8865]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/__data/assets/image/0025/21859/varieties/345w.png
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/png]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0025/21859/varieties/345w.png’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 102.56K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:14 (147 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0025/21859/varieties/345w.png’ saved [105024]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/__data/assets/image/0026/16982/varieties/150w.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0026/16982/varieties/150w.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   8.93K  --.-KB/s    in 0s
+
+2020-02-12 09:17:14 (24.9 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0026/16982/varieties/150w.jpg’ saved [9146]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/__data/assets/image/0013/3712/Top-100.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0013/3712/Top-100.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  72.31K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:14 (73.0 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0013/3712/Top-100.jpg’ saved [74043]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/__data/assets/image/0006/4101/agrias.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0006/4101/agrias.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  11.95K  --.-KB/s    in 0s
+
+2020-02-12 09:17:14 (37.0 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0006/4101/agrias.jpg’ saved [12232]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/__data/assets/image/0007/4102/family-child.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0007/4102/family-child.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  35.77K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:14 (63.2 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0007/4102/family-child.jpg’ saved [36630]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/__data/assets/image/0008/4103/APS.gif
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/gif]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0008/4103/APS.gif’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   9.07K  --.-KB/s    in 0s
+
+2020-02-12 09:17:14 (28.0 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0008/4103/APS.gif’ saved [9286]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/__data/assets/image/0020/6635/Analytics-and-insights-diagram-2018.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0020/6635/Analytics-and-insights-diagram-2018.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 131.43K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:14 (90.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0020/6635/Analytics-and-insights-diagram-2018.jpg’ saved [134584]
+
+--2020-02-12 09:17:14--  https://www.qgcio.qld.gov.au/services/analytics-and-research/ict-console
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-12 09:17:15 ERROR 403: Forbidden.
+
+--2020-02-12 09:17:15--  https://www.qgcio.qld.gov.au/services/analytics-and-research/all-about-the-digital-projects-dashboard
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-12 09:17:15 ERROR 403: Forbidden.
+
+--2020-02-12 09:17:15--  https://www.qgcio.qld.gov.au/services/analytics-and-research/ict-profiling-standard
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-12 09:17:16 ERROR 403: Forbidden.
+
+--2020-02-12 09:17:16--  https://www.qgcio.qld.gov.au/services/analytics-and-research/ICT-profiling-templates
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-12 09:17:16 ERROR 403: Forbidden.
+
+--2020-02-12 09:17:16--  https://www.qgcio.qld.gov.au/__data/assets/image/0027/7884/Assurance-gates_new.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0027/7884/Assurance-gates_new.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 139.56K  --.-KB/s    in 0.02s
+
+2020-02-12 09:17:16 (6.75 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0027/7884/Assurance-gates_new.jpg’ saved [142911]
+
+--2020-02-12 09:17:16--  https://www.qgcio.qld.gov.au/services/gated-assurance/gated-assurance-summary-reports
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-12 09:17:17 ERROR 403: Forbidden.
+
+--2020-02-12 09:17:17--  https://www.qgcio.qld.gov.au/services/qrate
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 403 Forbidden
+2020-02-12 09:17:18 ERROR 403: Forbidden.
+
+--2020-02-12 09:17:18--  https://www.qgcio.qld.gov.au/__data/assets/image/0018/31149/Bianca-Palk.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0018/31149/Bianca-Palk.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 163.39K  --.-KB/s    in 0.03s
+
+2020-02-12 09:17:18 (4.68 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0018/31149/Bianca-Palk.jpg’ saved [167311]
+
+--2020-02-12 09:17:18--  https://www.qgcio.qld.gov.au/__data/assets/image/0017/31148/Sahar-Ghomeshi.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0017/31148/Sahar-Ghomeshi.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  97.10K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:18 (89.3 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0017/31148/Sahar-Ghomeshi.jpg’ saved [99435]
+
+--2020-02-12 09:17:18--  https://www.qgcio.qld.gov.au/__data/assets/image/0023/30695/zara-cropped.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0023/30695/zara-cropped.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 237.51K  --.-KB/s    in 0.02s
+
+2020-02-12 09:17:18 (10.8 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0023/30695/zara-cropped.jpg’ saved [243214]
+
+--2020-02-12 09:17:18--  https://www.qgcio.qld.gov.au/__data/assets/image/0024/30696/Jacob-Trotter.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0024/30696/Jacob-Trotter.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  76.64K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:18 (99.5 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0024/30696/Jacob-Trotter.jpg’ saved [78476]
+
+--2020-02-12 09:17:18--  https://www.qgcio.qld.gov.au/__data/assets/css_file/0027/29745/cards.css
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/css]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/css_file/0027/29745/cards.css’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   2.00K  --.-KB/s    in 0s
+
+2020-02-12 09:17:18 (24.0 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/css_file/0027/29745/cards.css’ saved [2045]
+
+--2020-02-12 09:17:18--  https://www.qgcio.qld.gov.au/__data/assets/image/0013/10444/whyisu_park_3.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0013/10444/whyisu_park_3.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 623.20K  --.-KB/s    in 0.07s
+
+2020-02-12 09:17:18 (8.51 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0013/10444/whyisu_park_3.jpg’ saved [638152]
+
+--2020-02-12 09:17:18--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/whyisu-bio
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/whyisu-bio.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.46K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:19 (2.50 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/whyisu-bio.html’ saved [68059]
+
+--2020-02-12 09:17:19--  https://www.qgcio.qld.gov.au/__data/assets/image/0015/10428/Sarah_Porter_3.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0015/10428/Sarah_Porter_3.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 738.00K  --.-KB/s    in 0.09s
+
+2020-02-12 09:17:19 (7.95 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0015/10428/Sarah_Porter_3.jpg’ saved [755716]
+
+--2020-02-12 09:17:19--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/sarah-bio
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/sarah-bio.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.88K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:20 (2.42 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/sarah-bio.html’ saved [68485]
+
+--2020-02-12 09:17:20--  https://www.qgcio.qld.gov.au/__data/assets/image/0008/10430/Francis_Belina_4.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0008/10430/Francis_Belina_4.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 328.59K  --.-KB/s    in 0.1s
+
+2020-02-12 09:17:20 (3.22 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0008/10430/Francis_Belina_4.jpg’ saved [336479]
+
+--2020-02-12 09:17:20--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/francis-spacial-information,-hpw-science
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/francis-spacial-information,-hpw-science.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.91K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:21 (2.96 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/francis-spacial-information,-hpw-science.html’ saved [68515]
+
+--2020-02-12 09:17:21--  https://www.qgcio.qld.gov.au/__data/assets/image/0012/31224/Lauren_T_01-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0012/31224/Lauren_T_01-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 324.64K  --.-KB/s    in 0.1s
+
+2020-02-12 09:17:21 (3.29 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0012/31224/Lauren_T_01-portrait.jpg’ saved [332436]
+
+--2020-02-12 09:17:21--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/lauren-data-sharing-and-analytics,-hpw
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/lauren-data-sharing-and-analytics,-hpw.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.90K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:22 (2.98 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/lauren-data-sharing-and-analytics,-hpw.html’ saved [68509]
+
+--2020-02-12 09:17:22--  https://www.qgcio.qld.gov.au/__data/assets/image/0013/31360/Steph-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0013/31360/Steph-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 344.04K  --.-KB/s    in 0.1s
+
+2020-02-12 09:17:22 (3.44 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0013/31360/Steph-portrait.jpg’ saved [352292]
+
+--2020-02-12 09:17:22--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/stephanie-marketing-and-communication,-det
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/stephanie-marketing-and-communication,-det.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.71K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:23 (3.19 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/stephanie-marketing-and-communication,-det.html’ saved [68306]
+
+--2020-02-12 09:17:23--  https://www.qgcio.qld.gov.au/__data/assets/image/0017/31355/Katie-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0017/31355/Katie-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 107.60K  --.-KB/s    in 0.02s
+
+2020-02-12 09:17:23 (4.80 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0017/31355/Katie-portrait.jpg’ saved [110180]
+
+--2020-02-12 09:17:23--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/katie-cyber-security,-det
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/katie-cyber-security,-det.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  67.23K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:24 (2.83 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/katie-cyber-security,-det.html’ saved [68848]
+
+--2020-02-12 09:17:24--  https://www.qgcio.qld.gov.au/__data/assets/image/0017/31364/David-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0017/31364/David-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 149.37K  --.-KB/s    in 0.04s
+
+2020-02-12 09:17:24 (3.61 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0017/31364/David-portrait.jpg’ saved [152959]
+
+--2020-02-12 09:17:24--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/david-data-analyst,-health-payroll
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/david-data-analyst,-health-payroll.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.98K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:24 (2.72 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/david-data-analyst,-health-payroll.html’ saved [68583]
+
+--2020-02-12 09:17:24--  https://www.qgcio.qld.gov.au/__data/assets/image/0016/31363/Cindy_2-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0016/31363/Cindy_2-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  89.73K  --.-KB/s    in 0.02s
+
+2020-02-12 09:17:25 (4.59 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0016/31363/Cindy_2-portrait.jpg’ saved [91881]
+
+--2020-02-12 09:17:25--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/cindy-ehealth
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/cindy-ehealth.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.44K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:25 (2.92 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/cindy-ehealth.html’ saved [68030]
+
+--2020-02-12 09:17:25--  https://www.qgcio.qld.gov.au/__data/assets/image/0019/31357/Michael1-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0019/31357/Michael1-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 657.47K  3.33MB/s    in 0.2s
+
+2020-02-12 09:17:26 (3.33 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0019/31357/Michael1-portrait.jpg’ saved [673250]
+
+--2020-02-12 09:17:26--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/michael-queensland-curriculum-and-assessment-authority
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/michael-queensland-curriculum-and-assessment-authority.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.75K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:26 (2.88 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/michael-queensland-curriculum-and-assessment-authority.html’ saved [68348]
+
+--2020-02-12 09:17:26--  https://www.qgcio.qld.gov.au/__data/assets/image/0019/31366/Imran-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0019/31366/Imran-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  65.50K  --.-KB/s    in 0.02s
+
+2020-02-12 09:17:26 (3.59 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0019/31366/Imran-portrait.jpg’ saved [67076]
+
+--2020-02-12 09:17:26--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/imran-citec-ict
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/imran-citec-ict.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.66K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:27 (3.22 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/imran-citec-ict.html’ saved [68258]
+
+--2020-02-12 09:17:27--  https://www.qgcio.qld.gov.au/__data/assets/image/0020/31358/Niranjan-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0020/31358/Niranjan-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  63.93K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:27 (83.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0020/31358/Niranjan-portrait.jpg’ saved [65463]
+
+--2020-02-12 09:17:27--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/niranjan,-health-payroll
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/niranjan,-health-payroll.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.51K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:28 (3.09 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/niranjan,-health-payroll.html’ saved [68107]
+
+--2020-02-12 09:17:28--  https://www.qgcio.qld.gov.au/__data/assets/image/0015/31362/Andy-portrait2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0015/31362/Andy-portrait2.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  30.20K  --.-KB/s    in 0s
+
+2020-02-12 09:17:28 (83.9 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0015/31362/Andy-portrait2.jpg’ saved [30920]
+
+--2020-02-12 09:17:28--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/andy,-remote-sensing-scientist,-science
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/andy,-remote-sensing-scientist,-science.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.54K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:29 (2.79 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/andy,-remote-sensing-scientist,-science.html’ saved [68139]
+
+--2020-02-12 09:17:29--  https://www.qgcio.qld.gov.au/__data/assets/image/0018/31356/Lee-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0018/31356/Lee-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  49.63K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:29 (92.6 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0018/31356/Lee-portrait.jpg’ saved [50819]
+
+--2020-02-12 09:17:29--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/lee,-housing-and-public-works
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/lee,-housing-and-public-works.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.59K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:30 (3.05 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/lee,-housing-and-public-works.html’ saved [68184]
+
+--2020-02-12 09:17:30--  https://www.qgcio.qld.gov.au/__data/assets/image/0021/31359/Ryan-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0021/31359/Ryan-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  49.27K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:30 (78.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0021/31359/Ryan-portrait.jpg’ saved [50456]
+
+--2020-02-12 09:17:30--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/ryan-citec-information-brokerage
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/ryan-citec-information-brokerage.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.78K  --.-KB/s    in 0.03s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:31 (2.29 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/ryan-citec-information-brokerage.html’ saved [68383]
+
+--2020-02-12 09:17:31--  https://www.qgcio.qld.gov.au/__data/assets/image/0014/31361/Aaron-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0014/31361/Aaron-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  60.61K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:31 (114 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0014/31361/Aaron-portrait.jpg’ saved [62062]
+
+--2020-02-12 09:17:31--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/aaron-department-of-education
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/aaron-department-of-education.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.31K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:32 (3.67 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/aaron-department-of-education.html’ saved [67906]
+
+--2020-02-12 09:17:32--  https://www.qgcio.qld.gov.au/__data/assets/image/0018/31365/Eliza-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0018/31365/Eliza-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  56.42K  --.-KB/s    in 0s
+
+2020-02-12 09:17:32 (117 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0018/31365/Eliza-portrait.jpg’ saved [57778]
+
+--2020-02-12 09:17:32--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/eliza-project-support-officer,-daf
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/eliza-project-support-officer,-daf.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.27K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:33 (2.81 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/eliza-project-support-officer,-daf.html’ saved [67858]
+
+--2020-02-12 09:17:33--  https://www.qgcio.qld.gov.au/__data/assets/image/0013/32602/Eloise-portrait.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0013/32602/Eloise-portrait.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [  <=>                                             ]   1.06M  2.84MB/s    in 0.4s
+
+2020-02-12 09:17:33 (2.84 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0013/32602/Eloise-portrait.jpg’ saved [1115239]
+
+--2020-02-12 09:17:33--  https://www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/eloise-ehealth
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/eloise-ehealth.html’
+
+www.qgcio.qld.gov.au/services     [ <=>                                              ]  66.45K  --.-KB/s    in 0.02s
+
+Last-modified header missing -- time-stamps turned off.
+2020-02-12 09:17:34 (2.75 MB/s) - ‘www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/eloise-ehealth.html’ saved [68046]
+
+--2020-02-12 09:17:34--  https://www.qgcio.qld.gov.au/__data/assets/image/0023/30866/Graduates-banner-May19.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0023/30866/Graduates-banner-May19.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  99.14K  --.-KB/s    in 0.03s
+
+2020-02-12 09:17:34 (2.97 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0023/30866/Graduates-banner-May19.jpg’ saved [101518]
+
+--2020-02-12 09:17:34--  https://www.qgcio.qld.gov.au/__data/assets/image/0022/30865/Responsibilities-May19.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0022/30865/Responsibilities-May19.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   2.31K  --.-KB/s    in 0s
+
+2020-02-12 09:17:34 (21.9 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0022/30865/Responsibilities-May19.jpg’ saved [2364]
+
+--2020-02-12 09:17:34--  https://www.qgcio.qld.gov.au/__data/assets/image/0020/30863/Knowledge-May19.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0020/30863/Knowledge-May19.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   2.61K  --.-KB/s    in 0s
+
+2020-02-12 09:17:34 (29.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0020/30863/Knowledge-May19.jpg’ saved [2677]
+
+--2020-02-12 09:17:34--  https://www.qgcio.qld.gov.au/__data/assets/image/0024/30867/Technical-May19.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0024/30867/Technical-May19.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   2.08K  --.-KB/s    in 0s
+
+2020-02-12 09:17:34 (26.8 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0024/30867/Technical-May19.jpg’ saved [2130]
+
+--2020-02-12 09:17:34--  https://www.qgcio.qld.gov.au/__data/assets/image/0021/30864/Qualifications-May19.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0021/30864/Qualifications-May19.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]   1.95K  --.-KB/s    in 0s
+
+2020-02-12 09:17:34 (18.6 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0021/30864/Qualifications-May19.jpg’ saved [1999]
+
+--2020-02-12 09:17:34--  https://www.qgcio.qld.gov.au/_resources/images/it-graduate-program/whyisu_park_2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 404 Not Found
+2020-02-12 09:17:35 ERROR 404: Not Found.
+
+--2020-02-12 09:17:35--  https://www.qgcio.qld.gov.au/__data/assets/image/0012/12234/Lauren_T_01.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0012/12234/Lauren_T_01.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [  <=>                                             ]   1.09M  3.93MB/s    in 0.3s
+
+2020-02-12 09:17:35 (3.93 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0012/12234/Lauren_T_01.jpg’ saved [1139330]
+
+--2020-02-12 09:17:35--  https://www.qgcio.qld.gov.au/__data/assets/image/0010/12160/Steph_M.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0010/12160/Steph_M.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 811.44K  4.66MB/s    in 0.2s
+
+2020-02-12 09:17:35 (4.66 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0010/12160/Steph_M.jpg’ saved [830917]
+
+--2020-02-12 09:17:35--  https://www.qgcio.qld.gov.au/__data/assets/image/0021/3828/Katie.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0021/3828/Katie.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 222.38K  --.-KB/s    in 0.04s
+
+2020-02-12 09:17:35 (5.03 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0021/3828/Katie.jpg’ saved [227719]
+
+--2020-02-12 09:17:35--  https://www.qgcio.qld.gov.au/__data/assets/image/0022/3829/David_resized-Copy.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0022/3829/David_resized-Copy.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 716.92K  --.-KB/s    in 0.1s
+
+2020-02-12 09:17:36 (4.80 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0022/3829/David_resized-Copy.jpg’ saved [734122]
+
+--2020-02-12 09:17:36--  https://www.qgcio.qld.gov.au/__data/assets/image/0022/7942/Cindy_2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0022/7942/Cindy_2.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  89.73K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:36 (97.5 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0022/7942/Cindy_2.jpg’ saved [91881]
+
+--2020-02-12 09:17:36--  https://www.qgcio.qld.gov.au/__data/assets/image/0027/7938/Michael.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0027/7938/Michael.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  86.50K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:36 (133 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0027/7938/Michael.jpg’ saved [88581]
+
+--2020-02-12 09:17:36--  https://www.qgcio.qld.gov.au/__data/assets/image/0024/7935/Imran_2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0024/7935/Imran_2.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 121.39K  --.-KB/s    in 0.02s
+
+2020-02-12 09:17:36 (7.09 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0024/7935/Imran_2.jpg’ saved [124308]
+
+--2020-02-12 09:17:36--  https://www.qgcio.qld.gov.au/__data/assets/image/0021/7932/Niranjan_2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0021/7932/Niranjan_2.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  92.64K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:36 (141 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0021/7932/Niranjan_2.jpg’ saved [94861]
+
+--2020-02-12 09:17:36--  https://www.qgcio.qld.gov.au/__data/assets/image/0027/7929/Andy_2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0027/7929/Andy_2.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  63.46K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:36 (91.8 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0027/7929/Andy_2.jpg’ saved [64980]
+
+--2020-02-12 09:17:36--  https://www.qgcio.qld.gov.au/__data/assets/image/0024/7926/Lee_2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0024/7926/Lee_2.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 103.42K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:36 (127 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0024/7926/Lee_2.jpg’ saved [105906]
+
+--2020-02-12 09:17:36--  https://www.qgcio.qld.gov.au/__data/assets/image/0021/7923/Ryan_2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0021/7923/Ryan_2.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  76.60K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:36 (98.5 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0021/7923/Ryan_2.jpg’ saved [78436]
+
+--2020-02-12 09:17:36--  https://www.qgcio.qld.gov.au/__data/assets/image/0018/7920/Aaron_2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0018/7920/Aaron_2.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ] 112.03K  --.-KB/s    in 0.02s
+
+2020-02-12 09:17:36 (6.99 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0018/7920/Aaron_2.jpg’ saved [114715]
+
+--2020-02-12 09:17:36--  https://www.qgcio.qld.gov.au/__data/assets/image/0024/7917/Eliza_2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0024/7917/Eliza_2.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  96.41K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:36 (91.2 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0024/7917/Eliza_2.jpg’ saved [98728]
+
+--2020-02-12 09:17:36--  https://www.qgcio.qld.gov.au/__data/assets/image/0021/7914/Eloise_2.jpg
+Reusing existing connection to www.qgcio.qld.gov.au:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [image/jpeg]
+Saving to: ‘www.qgcio.qld.gov.au/__data/assets/image/0021/7914/Eloise_2.jpg’
+
+www.qgcio.qld.gov.au/__data/a     [ <=>                                              ]  65.72K  --.-KB/s    in 0.001s
+
+2020-02-12 09:17:36 (90.1 MB/s) - ‘www.qgcio.qld.gov.au/__data/assets/image/0021/7914/Eloise_2.jpg’ saved [67299]
+
+FINISHED --2020-02-12 09:17:36--
+Total wall clock time: 1m 6s
+Downloaded: 174 files, 43M in 7.7s (5.57 MB/s)
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/systems-analyst.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/helpful-links.html... 53-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/andy,-remote-sensing-scientist,-science.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/awards.html... 62-3
+Converting links in www.qgcio.qld.gov.au/services/gated-assurance.html... 42-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/how-to-apply.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/remote-sensing-science.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/sarah-bio.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/cyber-security.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/eliza-project-support-officer,-daf.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/project-support.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/analytics-and-research.html... 53-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/where-are-they-now.html... 58-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/stephanie-marketing-and-communication,-det.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/software-development.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program.html... 57-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/whats-in-it-for-graduates.html... 57-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/imran-citec-ict.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/marketing-and-communications.html... 45-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/ryan-citec-information-brokerage.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/katie-cyber-security,-det.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/enterprise-architecture.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/whyisu-bio.html... 43-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/finance.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/david-data-analyst,-health-payroll.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/systems-testing.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/expand-your-team-with-an-it-graduate.html... 61-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/francis-spacial-information,-hpw-science.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/information-technology-it-generalist.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/research.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/cloud-integration-architect.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/digital-integrator.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/server-support.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/mobile-platform-application-developer.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/eloise-ehealth.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/niranjan,-health-payroll.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates.html... 56-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles.html... 92-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/aaron-department-of-education.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/web-support.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/lauren-data-sharing-and-analytics,-hpw.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/cindy-ehealth.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/network-support.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/user-experience-ux.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/business-analyst.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/investment-review.html... 39-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials.html... 95-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/lee,-housing-and-public-works.html... 44-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/information-management.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/data-analysis-and-database-management.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/procurement-and-contract-management.html... 45-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/spatial-information.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/it-graduate-roles/human-resources.html... 46-3
+Converting links in www.qgcio.qld.gov.au/services/it-graduate-program/meet-our-graduates/testimonials/michael-queensland-curriculum-and-assessment-authority.html... 44-3
+Converting links in www.qgcio.qld.gov.au/__data/assets/css_file_folder/0007/160/lib.css?v=0.1.2.css... nothing to do.
+Converting links in www.qgcio.qld.gov.au/__data/assets/git_bridge/0030/17697/dist/styles/main.css... 35-0
+Converting links in www.qgcio.qld.gov.au/__data/assets/css_file/0017/28205/fullcalendar.min.css... nothing to do.
+Converting links in www.qgcio.qld.gov.au/__data/assets/css_file_folder/0008/161/custom.css?v=0.3.124.css... 1-0
+Converting links in www.qgcio.qld.gov.au/__data/assets/css_file/0027/29745/cards.css... nothing to do.
+Converted links in 59 files in 1.2 seconds.

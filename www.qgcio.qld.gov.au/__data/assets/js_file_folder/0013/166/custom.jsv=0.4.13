@@ -1,0 +1,353 @@
+window.addEventListener('load', function (){
+    $('.tmp_tabs-menu li a').each(function(){
+        var $title = $(this);
+        if($title.data('tabs') == 'not-loaded') {
+            $title.parent('li').click(function(e){
+                $title.closest('.tmp_tabs').find('.active').removeClass('active');
+                $title.parent('li').addClass('active');
+                $title.closest('.tmp_tabs').find($title.attr('href')).addClass('active');
+                return false;
+            });
+            $title.attr('data-tabs','loaded');
+        }
+    });
+});
+
+qgcio.fn.accordioInit = function(e){
+    $('.tmp_accordions-wrapper').each(function(e){
+        var $accContainer = $(this);
+        if($accContainer.attr('data-acc-loaded') === 'not-loaded') {
+            $accContainer.attr('data-acc-loaded', 'loaded');
+            var $accTitles = $accContainer.find('.tmp_accordions-title');
+            $accTitles.each(function(e){
+                var $title = $(this);
+                $title.click(function(e){
+                    if($accContainer.data('accordion-type') === 'single') {
+                        $accContainer.find('.tmp_accordions-content').not($title.next()).slideUp('fast');
+                        $title.next().slideToggle('fast');
+                        $accContainer.find('.tmp_accordion').not($title.parent()).removeClass('active')
+                    } else {
+                        $title.next().slideToggle('fast');
+                    }
+                    $title.parent().toggleClass('active');
+                    return false;
+                });
+            });
+        }
+    });
+}
+window.addEventListener('load', function (e){
+    qgcio.fn.accordioInit(e);
+});
+
+
+
+/*
+    Global
+*/
+
+var squiz = {
+    fn: {},
+    "storage_id": "qgcio-"
+};
+
+
+/*
+    Storage
+*/
+
+// Check if local storage is possible
+squiz.fn.localStorageEnabled = function(){
+    if(typeof(localStorage) !== 'undefined'){
+        return true;
+    } else {
+        return false;
+    }
+};
+
+// Check if session storage is possible
+squiz.fn.sessionStorageEnabled = function(){
+    if(typeof(sessionStorage) !== 'undefined'){
+        return true;
+    } else {
+        return false;
+    }
+};
+
+// Check if local storage object exists
+// If it exists, return the object
+// Otherwise, return an empty
+squiz.fn.checkStorageObject = function(key, object){
+    if(object === null || typeof(object) === 'undefined'){
+        object = {};
+    }
+
+    return object;
+};
+
+// Store the data in local storage
+squiz.fn.setLocalObject = function(key, value){
+    if(squiz.fn.localStorageEnabled()){
+        localStorage.setItem(squiz['storage_id'] + key, JSON.stringify(value));
+    }
+};
+
+// Store the data in session storage
+squiz.fn.setSessionObject = function(key, value){
+    if(squiz.fn.sessionStorageEnabled()){
+        sessionStorage.setItem(squiz['storage_id'] + key, JSON.stringify(value));
+    }
+};
+
+// Retrieve data from local storage
+squiz.fn.getLocalObject = function(key){
+    var object = {};
+    if(squiz.fn.localStorageEnabled()){
+        object = JSON.parse(localStorage.getItem(squiz['storage_id'] + key));
+        object = squiz.fn.checkStorageObject(key, object);
+    }
+
+    return object;
+};
+
+// Retrieve data from session storage
+squiz.fn.getSessionObject = function(key){
+    var object = {};
+    if(squiz.fn.sessionStorageEnabled()){
+        object = JSON.parse(sessionStorage.getItem(squiz['storage_id'] + key));
+        object = squiz.fn.checkStorageObject(key, object);
+    }
+
+    return object;
+};
+
+// Remove the data from local storage
+squiz.fn.removeLocalObject = function(key){
+    if(squiz.fn.localStorageEnabled()){
+        localStorage.removeItem(squiz['storage_id'] + key);
+    }
+};
+
+// Remove the data from session storage
+squiz.fn.removeSessionObject = function(key){
+    if(squiz.fn.sessionStorageEnabled()){
+        sessionStorage.removeItem(squiz['storage_id'] + key);
+    }
+};
+
+// Retrieve a specified cookie
+squiz.fn.getCookie = function(id){
+    var target = id + '=';
+    var jar = document.cookie.split(';');
+
+    for(var cookie in jar){
+        var current = jar[cookie].trim();
+        if(current.indexOf(target) === 0){
+            return current.substring(target.length, current.length);
+        }
+    }
+};
+
+
+/*
+    Capabilities
+*/
+
+// Sometimes private browsing does not allow storage
+squiz.fn.canUseBrowserStorage = function(){
+    var test_store = squiz['storage_id'] + 'store';
+    try {
+        localStorage.setItem(test_store, '1');
+        localStorage.getItem(test_store);
+        localStorage.removeItem(test_store);
+        
+        sessionStorage.setItem(test_store, '1');
+        sessionStorage.getItem(test_store);
+        sessionStorage.removeItem(test_store);
+
+        return true;
+    } catch (error) {
+        return false;
+    }
+};
+
+/* 
+    Global JS
+*/
+
+
+/*
+    Ready
+*/
+
+(function($) {
+$.fn.table_to_div = function(options) {
+  var settings = $.extend({}, {prefix: 'tg',target:''}, options);
+  return this.each(function() {   
+    var output = "";
+    var data = "";
+    settings.prefix = settings.prefix+"_";
+    columns = [];
+    table_target = $(this);
+    var tr_count=0;
+    //LOOP OVER ALL ROWS
+    $(table_target).find('tr').each(function(){
+      var col_count = 0;
+      //LOW OVER EACH COLUMN IN THE ROW
+      $(this).find('th,td').each(function(){        
+        var element = $(this).html();        
+        if(tr_count ==0){
+          //HEADER COLUMN
+          columns.push($(this).html());
+        }else{
+          //CONTENT COLUMN, strip leading and trailing whitespace
+          data+= '      <div class="'+settings.prefix+columns[col_count].replace(/\s+/g,'')+' '+settings.prefix+'row">\n';
+          data+= '         <label>'+columns[col_count]+'</label>\n';
+          data+= '         <span>'+element.replace(/^\s\s*/, '').replace(/\s\s*$/, '')+'</span>\n';
+          data+= '      </div>\n'; 
+        }   
+        col_count++;
+      });
+      if(tr_count != 0){
+        output+='   <div class="'+settings.prefix+tr_count+' '+settings.prefix+'group">\n';
+        output+= data;
+        output+= '   </div>\n';
+        data = "";
+      }
+      tr_count++;     
+    });      
+    output = '<div class="'+settings.prefix+'container">\n'+output+'</div>\n';
+    if(settings.target.length > 0){
+      $(settings.target).html(output);
+    }else{
+      $(table_target).before(output);
+    }        
+  });
+};
+})(jQuery);
+
+$(document).ready(function(){
+    if($('.largeResponsiveTable').length > 0){
+        $( '<div id="convertedLargeTable"></div>' ).insertBefore( ".largeResponsiveTable" );
+
+        $(".largeResponsiveTable").table_to_div({prefix:'largeTableDiv',target:'#convertedLargeTable'});
+    }
+});
+
+
+window.addEventListener('load', function (e){
+    if($('#page_account_manager_524').length > 0){
+        $('body').on('click', '.qgcio-local-user-button', qgcio.fn.loginButtons);
+    }
+});
+
+/* Jason's Script #823 */
+
+
+
+
+
+// When page is loaded and ready
+$(document).ready(function() {
+    
+    //Hide assets with public permission from report 9468
+    if($(".qgcio__report").length > 0){
+        console.log('table here');
+        $("table.qgcio__report tr").each(function(){
+           if ($(this).data('public-permissions') == true){
+               $(this).hide();
+               console.log('yes');
+           }
+        });
+    }
+   
+});
+
+
+
+/* John's Script #992 */
+
+// IIFE - Immediately Invoked Function Expression
+(function($, window, document) {
+
+  // The $ is now locally scoped
+
+  // Listen for the jQuery ready event on the document
+  $(function() {
+
+    // The DOM is ready!
+    
+
+  });
+
+  // The rest of the code goes here!
+
+}(window.jQuery, window, document));
+// The global jQuery object is passed as a parameter
+/* End of John's Script */
+
+/*
+    Ready
+*/
+
+$(document).ready(function(){
+    
+});
+$(document).ready(function(){
+
+    // find the first accordion on the page and prepend a button
+    
+    var numOfAccordions = $('.tmp_accordions').length
+    
+    // check to make sure that there is more than 1 accordion on the page
+    if (numOfAccordions > 1) {
+        $('body').find('.tmp_accordions-wrapper').eq(0).prepend("<div class='toggle_accordion-wrapper'><input type='button' id='btnSubmit' value='expand all' /></div>");
+        
+            // onclick of this button
+            $('#btnSubmit').click(function(){
+                
+                // assign the accordion wrapper to a variable
+                var accordionList = $('.tmp_accordions-title').parent();
+    
+                // if btn text is expand all, change it to collapse all
+                if ($(this).val() === 'expand all') {
+                    
+                    // collapse any open accordions
+                    $(accordionList).removeClass('active');
+                    $('.tmp_accordions-content').css('display', 'none');
+                    
+                    $(this).val('collapse all');
+                    
+                    //fire the click event on the accordion
+                    $('.tmp_accordions-title').trigger('click');
+    
+                } 
+                
+                // if btn text is collapse all, change it to expand all
+                else if ($(this).val() === 'collapse all') {
+                    
+                    // open any closed accordions
+                    $(accordionList).addClass('active');
+                    $('.tmp_accordions-content').css('display', 'block');
+                    
+                    $(this).val('expand all');
+                    
+                    //fire the click event on the accordion
+                    $('.tmp_accordions-title').trigger('click');
+                }
+                
+            });
+    }
+        
+});
+
+
+
+
+// Jira QGCIO - SDQLD-1248
+// Code to keep only one accordion tab open on homepage
+
+var $myGroup = $('#homeAccordionExample');
+$myGroup.on('show.bs.collapse','.collapse', function() {
+    $myGroup.find('.collapse.in').collapse('hide');
+});

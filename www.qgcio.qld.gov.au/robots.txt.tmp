@@ -1,0 +1,10 @@
+User-Agent: Funnelback
+Allow: *
+
+User-agent: *
+Disallow: /_designs/qgcio
+Disallow: /dev
+Disallow: /qgciodigitalsignage
+Disallow: /search
+Disallow: /whats-on/news
+Disallow: /publications
